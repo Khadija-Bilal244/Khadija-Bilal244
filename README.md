@@ -43,27 +43,27 @@ fun_fact: I turn ideas into live, production-grade websites
 ## 💻 Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" height="60" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" />
 
 ### Frontend, Backend & Full-Stack (MERN)
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,vite,redux" height="60" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,vite,redux" />
 
 ### ML / Data Science
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="56" height="56" alt="NumPy" title="NumPy" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="56" height="56" alt="Pandas" title="Pandas" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="56" height="56" alt="Scikit-learn" title="Scikit-learn" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="56" height="56" alt="Matplotlib" title="Matplotlib" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="56" height="56" alt="Jupyter" title="Jupyter Notebook" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter Notebook" />
 </p>
 
 *Also working with: Seaborn · Data Preprocessing · Feature Engineering · Model Evaluation · Classification Algorithms*
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="60" /> &nbsp; ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" /> &nbsp; ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design & UI/UX
-<img src="https://skillicons.dev/icons?i=figma" height="60" />
+<img src="https://skillicons.dev/icons?i=figma" />
 
 ### Security
 <p>
@@ -75,7 +75,7 @@ fun_fact: I turn ideas into live, production-grade websites
 </p>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,kali,linux" height="60" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,kali,linux" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
 ### Concepts
@@ -129,14 +129,8 @@ The official website for a UK-based accounting, taxation, payroll, and business 
 - 🥇 **CodeRush'26 CTF Competitor** — ITU Barki Campus, Lahore (May 2026): web exploitation, cryptography, reverse engineering, and attack/defence challenges
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khadija-Bilal244&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija-Bilal244&layout=compact&hide_border=true&cache_seconds=1800" />
-</div>
-
+📊 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khadija-Bilal244&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija-Bilal244&layout=compact&hide_border=true&cache_seconds=1800" /> </div><div align="center"> <img src="https://streak-stats.demolab.com/?user=Khadija-Bilal244&hide_border=true" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khadija-Bilal244&hide_border=true&area=true&color=0272BD&line=0272BD" width="90%" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Khadija-Bilal244&theme=default&no-frame=true&row=1&column=6" /> </div>
 ---
 
 ## 📫 Let's Connect
