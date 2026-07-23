@@ -130,14 +130,7 @@ The official website for a UK-based accounting, taxation, payroll, and business 
 
 ---
 📊 GitHub Stats
-<div align="center"><!-- Static Stats Table (Always Works) -->
-Metric	Value
-Total Contributions	158
-Longest Streak	4 days
-Public Repositories	View Repos
-Profile Views	https://komarev.com/ghpvc/?username=Khadija-Bilal244
-</div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khadija-Bilal244&hide_border=true&area=true&color=0272BD&line=0272BD" width="90%" /> </div>
-
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Khadija-Bilal244&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija-Bilal244&layout=compact&hide_border=true&cache_seconds=1800" /> </div><div align="center"> <img src="https://streak-stats.demolab.com/?user=Khadija-Bilal244&hide_border=true" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khadija-Bilal244&hide_border=true&area=true&color=0272BD&line=0272BD" width="90%" /> </div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Khadija-Bilal244&theme=default&no-frame=true&row=1&column=6" /> </div>
 ---
 ## 📫 Let's Connect
 
