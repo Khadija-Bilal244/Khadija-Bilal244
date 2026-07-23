@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Computer Science student at **FAST-NUCES Lahore** (Class of 2027), passionate about full-stack web development, cybersecurity, UI/UX design, and machine learning. I enjoy taking projects from idea to production — including client-facing business websites that are live today.
 
