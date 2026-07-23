@@ -1,22 +1,27 @@
 <div align="center">
- <div align="center">
-  <img src="https://raw.githubusercontent.com/Khadija-Bilal244/Khadija-Bilal244/main/logo.png" width="500" height="200" alt="logo" />
-</div>
-# Hi, I'm Khadija Bilal 👋
 
-### Computer Science Student · Full-Stack Developer · Cybersecurity Enthusiast
+<img src="https://raw.githubusercontent.com/Khadija-Bilal244/Khadija-Bilal244/main/logo.png" width="180" alt="logo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0272BD&center=true&vCenter=true&width=650&lines=Building+production-ready+web+apps;React+%2B+Node.js+%2B+MySQL+Developer;CTF+Competitor+%7C+Web+Exploitation+%7C+Cryptography;Machine+Learning+%26+Data+Science+Enthusiast;Currently+studying+at+FAST-NUCES+Lahore" alt="Typing SVG" />
+# Khadija Bilal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadija-bilal-496b97370)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kb-portfolio-khadija-bilal244s-projects.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadija.bilal9167@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0272BD&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%26+Node.js;Cybersecurity+%26+CTF+Enthusiast;Machine+Learning+%2F+Data+Science+Explorer;Turning+Ideas+Into+Live+Production+Websites;CS+Student+at+FAST-NUCES+Lahore" alt="Typing SVG" />
+
+**Computer Science Student · FAST-NUCES Lahore**
+
+<p>
+<a href="mailto:khadija.bilal9167@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/khadija-bilal-496b97370"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Khadija-Bilal244"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://kb-portfolio-khadija-bilal244s-projects.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+📍 Lahore, Pakistan
 
 </div>
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
 I'm a Computer Science student at **FAST-NUCES Lahore** (Class of 2027), passionate about full-stack web development, cybersecurity, UI/UX design, and machine learning. I enjoy taking projects from idea to production — including client-facing business websites that are live today.
 
@@ -29,23 +34,36 @@ I'm a Computer Science student at **FAST-NUCES Lahore** (Class of 2027), passion
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **Languages**
 
-<p> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql" />
 
-**Frameworks & Libraries**
+**Frameworks & Backend**
 
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> </p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 
-**Databases, Tools & Design**
+**ML / Data Science**
 
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> </p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter Notebook" />
+</p>
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,jira,linux" />
 
 **Security**
 
-<p> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/OWASP%20ZAP-1E1E1E?style=for-the-badge&logo=owasp&logoColor=white"> <img src="https://img.shields.io/badge/Encryption-4B0082?style=for-the-badge"> </p>
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP%20ZAP-1E1E1E?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/Encryption-4B0082?style=for-the-badge">
+</p>
 
 ---
 
@@ -59,14 +77,15 @@ A modern, responsive corporate website for a technology solutions company, cover
 - **Stack:** React 18, Tailwind CSS, Framer Motion, React Router DOM, Vite
 - **Highlights:** Rotating hero section, expandable services, animated tech-stack banner, glassmorphism UI, full SEO with JSON-LD schema
 - 🔗 **Live:** [dukes-tech-services.vercel.app](https://dukes-tech-services.vercel.app/)
-- 📦 **Repo:** [github.com/Khadija-Bilal244/dukes-tech-services](https://github.com/Khadija-Bilal244/dukes-tech-services)
+- 📦 **Repo:** [github.com/Khadija-Bilal244/Dukes-Tech-Services](https://github.com/Khadija-Bilal244/Dukes-Tech-Services)
 
-### 💰 Nexus Accountants — *Live in Production*
+### 💰 Nexus Accountants & Taxation Ltd — *Live in Production*
 The official website for a UK-based accounting, taxation, payroll, and business advisory firm, built to convert visitors into consultation clients.
 
 - **Stack:** React.js, React Router DOM, custom CSS3, Font Awesome, Vite
 - **Highlights:** Service showcase, sector expertise pages, client testimonials, lazy-loaded media, scroll-triggered animations
 - 🔗 **Live:** [nexusaccountants.co.uk](https://www.nexusaccountants.co.uk/)
+- 📦 **Repo:** [github.com/Khadija-Bilal244/Nexus-accountants-taxation-ltd](https://github.com/Khadija-Bilal244/Nexus-accountants-taxation-ltd)
 
 ---
 
@@ -74,6 +93,8 @@ The official website for a UK-based accounting, taxation, payroll, and business 
 
 | Project | Description | Tech |
 |---|---|---|
+| 🌐 [Dukes Tech Services](https://github.com/Khadija-Bilal244/Dukes-Tech-Services) | Live corporate website for a tech solutions company | React, Tailwind CSS, Framer Motion |
+| 💰 [Nexus Accountants](https://github.com/Khadija-Bilal244/Nexus-accountants-taxation-ltd) | Live website for a UK accounting & taxation firm | React.js, CSS3, Vite |
 | 🩺 [MediTrack](https://github.com/Khadija-Bilal244/MediTrack) | Medication adherence & side-effect monitoring web app with a Figma-designed UI/UX | HTML, CSS, JavaScript, Node.js, MySQL |
 | 📚 [Library Management System](https://github.com/Khadija-Bilal244/LibraryManagementSystem) | Full-stack platform for search, borrowing, and returns with a relational schema | React, Node.js, MySQL |
 | ❤️ [SafeBeat](https://github.com/SanniyaAslam/Safe-Beat) | ML model predicting heart disease risk from patient health indicators | Python, Machine Learning |
@@ -103,7 +124,7 @@ The official website for a UK-based accounting, taxation, payroll, and business 
 
 ---
 
-## 📫 Let's Connect 
+## 📫 Let's Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/khadija-bilal-496b97370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
