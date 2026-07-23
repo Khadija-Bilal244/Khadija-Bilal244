@@ -75,7 +75,8 @@ fun_fact: I turn ideas into live, production-grade websites
 </p>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,jira,kali,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,kali,linux" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
 ### Concepts
 ![OOP](https://img.shields.io/badge/OOP-informational?style=flat-square&color=0272BD)
