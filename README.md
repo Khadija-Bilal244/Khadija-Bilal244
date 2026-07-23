@@ -1,6 +1,6 @@
 <div align="center">
  <div align="center">
-  <img src="https://raw.githubusercontent.com/Khadija-Bilal244/Khadija-Bilal244/main/logo.png" width="150" alt="logo" />
+  <img src="https://raw.githubusercontent.com/Khadija-Bilal244/Khadija-Bilal244/main/logo.png" width="300" alt="logo" />
 </div>
 # Hi, I'm Khadija Bilal 👋
 
