@@ -1,5 +1,7 @@
 <div align="center">
-
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/Khadija-Bilal244/Khadija-Bilal244/main/logo.png" width="150" alt="logo" />
+</div>
 # Hi, I'm Khadija Bilal 👋
 
 ### Computer Science Student · Full-Stack Developer · Cybersecurity Enthusiast
